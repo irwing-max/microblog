@@ -1,0 +1,10 @@
+.box{
+	margin: 0 auto;
+	width: 500px!important;
+}
+
+.box form button{
+	width: 100%;
+	background-color: #337ab7;
+	color: #FFF;
+}
