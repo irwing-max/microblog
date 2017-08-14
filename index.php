@@ -27,7 +27,7 @@
 				<div class="box">
 					<form  method="post">
 						<textarea id="content" class="form-control" placeholder="O que está pensando?"></textarea><br>
-						<button id="postar" class="btn btn-default" onclick="show(getElementById('content').value)">Publicar</button>
+						<button id="postar" class="btn btn-default" onclick="show(getElementById('content').value);">Publicar</button>
 					</form>
 				</div>		
 			</div>
